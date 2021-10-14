@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://scrumrot.github.io/csb-h5rkw/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://scrumrot.github.io/csb-h5rkw/static/js/main.89766d3c.chunk.js",
+    "main.js.map": "https://scrumrot.github.io/csb-h5rkw/static/js/main.89766d3c.chunk.js.map",
+    "runtime-main.js": "https://scrumrot.github.io/csb-h5rkw/static/js/runtime-main.ecb9d177.js",
+    "runtime-main.js.map": "https://scrumrot.github.io/csb-h5rkw/static/js/runtime-main.ecb9d177.js.map",
+    "static/js/2.1abff1b3.chunk.js": "https://scrumrot.github.io/csb-h5rkw/static/js/2.1abff1b3.chunk.js",
+    "static/js/2.1abff1b3.chunk.js.map": "https://scrumrot.github.io/csb-h5rkw/static/js/2.1abff1b3.chunk.js.map",
+    "index.html": "https://scrumrot.github.io/csb-h5rkw/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://scrumrot.github.io/csb-h5rkw/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.1abff1b3.chunk.js.LICENSE.txt": "https://scrumrot.github.io/csb-h5rkw/static/js/2.1abff1b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecb9d177.js",
+    "static/js/2.1abff1b3.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.89766d3c.chunk.js"
+  ]
+}
